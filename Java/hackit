@@ -1,1 +1,6 @@
-System.out.println("haack it");
+mport java.util.Scanner;
+public class hackit {
+  System.out.println("haack it");
+	}
+}
+
